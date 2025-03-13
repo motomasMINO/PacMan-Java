@@ -59,7 +59,7 @@
 
 このプロジェクトはMIT Licenseのもとで公開されています。
 
-## 📧 開発者
+## 📧 お問い合わせ
 
 - **Github: motomasMINO**
 
