@@ -65,4 +65,4 @@
 
 - **Email: yu120615@gmail.com**
 
-  バグ報告や改善点の提案はPull RequestまたはIssueで受け付けています!
+  バグ報告や改善点・機能追加の提案はPull RequestまたはIssueで受け付けています!
